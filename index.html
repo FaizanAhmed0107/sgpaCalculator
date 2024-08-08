@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SGPA Calculator</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+<main id="main">
+  <h1 id="title">SGPA Calculator</h1>
+  <p id="description">This Site will help you calculate your SGPA.</p>
+  <form id="sgpaForm">
+    <div id="subjectsContainer"></div>
+    <button id="subjectButton" type="button" onclick="addSubject()">Add Subject</button>
+    <button id="calculate" type="button" onclick="calculateSGPA()">Calculate SGPA</button>
+  </form>
+  <div id="result"></div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
