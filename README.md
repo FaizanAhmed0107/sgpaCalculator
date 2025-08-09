@@ -11,7 +11,7 @@ This web app helps students calculate their Semester Grade Point Average (SGPA) 
 
 ## Demo
 
-Try out the live demo of the SGPA Calculator: [SGPA Calculator](https://mrunknown101331.github.io/sgpaCalculator/)
+Try out the live demo of the SGPA Calculator: [SGPA Calculator](https://FaizanAhmed0107.github.io/sgpaCalculator/)
 
 ## Usage
 
